@@ -9,3 +9,9 @@
 ![Sales Dashboard](https://github.com/ROB6665/TABLEAU_DASHBOARDS/assets/121626867/7de2d38d-2352-4ad4-93d2-c2cdca15d16d)
 
 <hr>
+
+<h2 align="center"> 😷COVID DASHBORD🕵️‍♂️ </h2>
+
+![COVID-19](https://github.com/ROB6665/TABLEAU_DASHBOARDS/assets/121626867/b12a6cd3-6af3-49bf-8bc7-ad16035c2521)
+
+<hr>
