@@ -34,4 +34,6 @@
 
 ![BUTTERFLY CHART](https://github.com/ROB6665/TABLEAU_DASHBOARDS/assets/121626867/d3c3ca28-01c0-44ae-bd48-8f087d7d0bb8)
 
+![FUNNEL CHART](https://github.com/ROB6665/TABLEAU_DASHBOARDS/assets/121626867/dbefc347-f647-4ebc-92f9-f71bcd1a6cb9)
+
 
