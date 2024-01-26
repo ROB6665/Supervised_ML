@@ -32,8 +32,14 @@
 
 <h2 align="center"> 📊Charts🪄 </h2>
 
+<h3 align="center"> Butterfly Chart </h2>
+
 ![BUTTERFLY CHART](https://github.com/ROB6665/TABLEAU_DASHBOARDS/assets/121626867/d3c3ca28-01c0-44ae-bd48-8f087d7d0bb8)
 
+<h3 align="center"> Tree Map Chart </h2>
+
+![TREE CHART](https://github.com/ROB6665/TABLEAU_DASHBOARDS/assets/121626867/c55bbed4-8090-4d46-87bd-e4cdf737a28b)
+
+<h3 align="center"> Funnel Chart </h2>
+
 ![FUNNEL CHART](https://github.com/ROB6665/TABLEAU_DASHBOARDS/assets/121626867/dbefc347-f647-4ebc-92f9-f71bcd1a6cb9)
-
-
