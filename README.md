@@ -43,3 +43,7 @@
 <h3 align="center"> Funnel Chart </h2>
 
 ![FUNNEL CHART](https://github.com/ROB6665/TABLEAU_DASHBOARDS/assets/121626867/dbefc347-f647-4ebc-92f9-f71bcd1a6cb9)
+
+<h3 align="center"> Word Chart </h2>
+
+![WORD CHART](https://github.com/ROB6665/TABLEAU_DASHBOARDS/assets/121626867/ce1486f7-5ee1-48b7-bfb6-681f4aac47f6)
