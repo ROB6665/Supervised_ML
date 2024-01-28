@@ -47,3 +47,8 @@
 <h3 align="center"> Word Chart </h2>
 
 ![WORD CHART](https://github.com/ROB6665/TABLEAU_DASHBOARDS/assets/121626867/ce1486f7-5ee1-48b7-bfb6-681f4aac47f6)
+
+<h3 align="center"> Sunrise Chart </h2>
+
+![SUNRISE CHART](https://github.com/ROB6665/TABLEAU_DASHBOARDS/assets/121626867/edb80988-613e-4efd-8ba9-d1eaa416f119)
+
