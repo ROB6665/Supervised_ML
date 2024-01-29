@@ -52,3 +52,6 @@
 
 ![SUNRISE CHART](https://github.com/ROB6665/TABLEAU_DASHBOARDS/assets/121626867/edb80988-613e-4efd-8ba9-d1eaa416f119)
 
+<h3 align="center"> Donut Chart </h2>
+
+![DONUT CHART](https://github.com/ROB6665/TABLEAU_DASHBOARDS/assets/121626867/24873b58-60d9-46af-b614-218469e89dd7)
