@@ -55,3 +55,7 @@
 <h3 align="center"> Donut Chart </h2>
 
 ![DONUT CHART](https://github.com/ROB6665/TABLEAU_DASHBOARDS/assets/121626867/24873b58-60d9-46af-b614-218469e89dd7)
+
+<h3 align="center"> Pie Chart </h2>
+
+![PIE CHART](https://github.com/ROB6665/TABLEAU_DASHBOARDS/assets/121626867/aaa68864-c9b7-46b8-a31b-39695fb9698d)
